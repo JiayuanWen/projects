@@ -1,4 +1,4 @@
-This repository hosts the contents for my [website](https://jiayuanWen.github.io), such as projects listed in Projects page and blogs.
+This repository hosts the contents for my [website](https://jiayuanWen.github.io), such as projects shown in Projects page and blogs.
 
 This is my attempt at working around the drawback that GitHub Pages only supports static contents and no support for database/datastores, such as MongoDB, Google Cloud SQL, etc.
 

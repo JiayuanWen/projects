@@ -22,7 +22,6 @@ Create a GitHub Pages site as normal following this [official guide](https://doc
 
 Next step is to create a separate repository for hosting your contents. I will call this repository the *content repository* from now on. 
 
-![[Pasted image 20230830012908.png]]
 <img src="https://raw.githubusercontent.com/JiayuanWen/JiayuanWen.github.io.data/main/blogs/blog1/newRepo.png"/>
 
 Name it something similar to your GitHub Pages site repository so that it is easier to find. Your site repository is named `<username>.github.io`, then you can name it `<username>.github.io.contents` (Replace `<username>` with your GitHub username or organization name).   

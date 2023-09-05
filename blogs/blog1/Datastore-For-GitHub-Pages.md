@@ -1,7 +1,13 @@
 # Datastore For GitHub Pages
 
 **Author:** Jiayuan Wen <a href="https://github.com/JiayuanWen"><img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"/ width="20"></a> <a href="https://www.linkedin.com/in/jiayuanwen/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-o354wle6.png"/ width="20"></a> 
+
 **Published Date:** 08/30/2023
+
+**Last Edited:** 08/30/2023
+<br>
+<br>
+<br>
 <br>
 
 GitHub Pages is a static site hosting service that uses resources (HTML, CSS, and JavaScript) from GitHub repository to build a public website. It is suitable for hosting a personal website for showcasing your projects, posting blogs, and share documentations and other resources, all free of charge.  
